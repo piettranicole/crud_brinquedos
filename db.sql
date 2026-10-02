@@ -1,6 +1,6 @@
 CREATE DATABASE cadastro;
 
-USE crud_brinquedos;
+USE cadastro;
 
 CREATE TABLE brinquedos (
     id INT AUTO_INCREMENT PRIMARY KEY,

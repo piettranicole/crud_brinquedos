@@ -28,7 +28,7 @@ $stmt->bind_param(
 if ($stmt->execute()) {
     header("Location: index.php");
 } else {
-    echo "Erro ao atualizar o brinquedo.";
+    echo "erro ao atualizar o brinquedo.";
 }
 
 ?>

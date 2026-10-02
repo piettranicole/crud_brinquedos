@@ -1,4 +1,4 @@
-CREATE DATABASE crud_brinquedos;
+CREATE DATABASE cadastro;
 
 USE crud_brinquedos;
 
